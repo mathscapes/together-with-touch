@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;500&display=swap');
+
+* {
+  font-family: 'Inconsolata', monospace;
+}
+
+body {
+  margin: 0;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+  height: 100vh;
+  /* justify-content: center;
+  align-content: center;
+  align-items: center; */
+  background-color: #000;
+  overflow: hidden;
+  color: #fff;
+}
+
+.Main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 80vw;
+  height: 100vh;
+}
+
+.Footer {
+  padding-bottom: 3em;
+  text-align: center;
+}
+
+.Footer p {
+  color: grey;
+}
+.Footer a {
+  color: silver;
+  text-decoration: none;
+}
+
+.Footer a:hover {
+  color: #fff;
+
+}
+.App .Console {
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  height: 100vh;
+  border-right: 2px solid #343434;
+  background-color: black;
+  overflow: scroll;
+}
+
+.Console p {
+  color: grey;
+  font-size: 0.8em;
+  margin: 0;
+  padding: 0.5em;
+  border-bottom: 1px solid #232323;
+}
+
+.Content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Controls {
+  padding-top: 1em;
+  display: flex;
+  flex-direction: row;
+  column-gap: 1em;
+}
+
+.Controls .Button {
+  border: none;
+  padding: 1em;
+  font-size: 1em;
+  background-color: silver;
+  text-decoration: none;
+  color: black;
+  cursor: pointer;
+}
+
+.Controls .Button:hover {
+  background-color: white;
+}
+
+.Controls .Button:disabled {
+  background-color: #343434;
+  color: #fff;
+  cursor: not-allowed;
+}
+
+.TestInput {
+  /* padding-top: 3em; */
+}
+
+.TestInput input{
+  background-color: black;
+  font-size: 5em;
+  /* line-height: 1em; */
+  /* padding: 0.25em; */
+  color: white;
+  text-align: center;
+  font-weight: 200;
+  border: 0;
+}
+
+.TestInput p {
+  text-align: center;
+  opacity: 0.5;
+}
+
+*:focus {
+  outline: none;
+}
+
