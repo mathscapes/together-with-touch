@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/together-with-touch/static/css/main.d6f3ed42.chunk.css",
-    "main.js": "/together-with-touch/static/js/main.17419ec4.chunk.js",
-    "main.js.map": "/together-with-touch/static/js/main.17419ec4.chunk.js.map",
+    "main.js": "/together-with-touch/static/js/main.080773f9.chunk.js",
+    "main.js.map": "/together-with-touch/static/js/main.080773f9.chunk.js.map",
     "runtime-main.js": "/together-with-touch/static/js/runtime-main.e9918b12.js",
     "runtime-main.js.map": "/together-with-touch/static/js/runtime-main.e9918b12.js.map",
-    "static/js/2.5dabf8eb.chunk.js": "/together-with-touch/static/js/2.5dabf8eb.chunk.js",
-    "static/js/2.5dabf8eb.chunk.js.map": "/together-with-touch/static/js/2.5dabf8eb.chunk.js.map",
+    "static/js/2.e24fb32f.chunk.js": "/together-with-touch/static/js/2.e24fb32f.chunk.js",
+    "static/js/2.e24fb32f.chunk.js.map": "/together-with-touch/static/js/2.e24fb32f.chunk.js.map",
     "index.html": "/together-with-touch/index.html",
     "static/css/main.d6f3ed42.chunk.css.map": "/together-with-touch/static/css/main.d6f3ed42.chunk.css.map",
-    "static/js/2.5dabf8eb.chunk.js.LICENSE.txt": "/together-with-touch/static/js/2.5dabf8eb.chunk.js.LICENSE.txt"
+    "static/js/2.e24fb32f.chunk.js.LICENSE.txt": "/together-with-touch/static/js/2.e24fb32f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9918b12.js",
-    "static/js/2.5dabf8eb.chunk.js",
+    "static/js/2.e24fb32f.chunk.js",
     "static/css/main.d6f3ed42.chunk.css",
-    "static/js/main.17419ec4.chunk.js"
+    "static/js/main.080773f9.chunk.js"
   ]
 }
